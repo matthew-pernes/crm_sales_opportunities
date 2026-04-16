@@ -38,7 +38,7 @@ Insight: Based on the data, the West office is the most efficient performer, boa
 
 2. Are any sales agents lagging behind their regional averages?
 
-Clause/s Used: COUNT, CASE WHEN, GROUP BY, etc.,
+Clause/s Used: COUNT, CASE WHEN, LEFT JOIN, etc.,
 
 Snapshot of Result Grid: 
 
