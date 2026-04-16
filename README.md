@@ -2,7 +2,7 @@
 
 Technical Tools Used: MySQL, Gemini AI
 
-_Note: All the SQL queries can be found in the crm_sql.sql file within the repository._
+_Note: All the SQL queries can be found in the crm_queries.sql file within the repository._
 
 ## Project Overview
 
