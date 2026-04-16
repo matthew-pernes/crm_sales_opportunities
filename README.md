@@ -24,6 +24,8 @@ B2B sales pipeline data from a fictitious company that sells computer hardware, 
 
 ## Data Exploratory Analysis
 
+_All the queries can be found in the crm_sql.sql file within the repository._
+
 1. How is each sales team performing compared to the rest?
 
 Clause/s Used: CASE WHEN, LEFT JOIN, ROUND, etc.,
