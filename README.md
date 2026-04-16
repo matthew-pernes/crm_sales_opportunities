@@ -2,6 +2,8 @@
 
 Technical Tools Used: MySQL, Gemini AI
 
+_Note: All the SQL queries can be found in the crm_sql.sql file within the repository._
+
 ## Project Overview
 
 This project focuses on a deep-dive exploratory data analysis of a CRM (Customer Relationship Management) sales pipeline. The goal is to identify performance bottlenecks, track regional success, and uncover product-market fit across various industry sectors.
@@ -23,8 +25,6 @@ Description of the dataset:
 B2B sales pipeline data from a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities.
 
 ## Data Exploratory Analysis
-
-_All the queries can be found in the crm_sql.sql file within the repository._
 
 1. How is each sales team performing compared to the rest?
 
